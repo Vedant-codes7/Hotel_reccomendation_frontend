@@ -1,7 +1,7 @@
 # Hotel Recommendation System
 
 ## Live Demo
-Frontend: https://YOUR-VERCEL-URL.vercel.app
+Frontend: https://smartrecommends.vercel.app/#
 
 Backend: https://hotel-reccomendation.onrender.com
 
